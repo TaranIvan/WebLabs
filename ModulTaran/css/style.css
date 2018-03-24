@@ -1,0 +1,44 @@
+.mainrec {
+  background: #90EE90;
+  width: 200px;
+  height: 200px;
+  top: 0;
+  left: 0;
+  right:0;
+  bottom:0;
+  margin:auto;
+  position: absolute;
+  
+}
+
+#star-six {
+	width: 0;
+	height: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-bottom: 100px solid red;
+	position: absolute;
+	margin-left: 25%;
+	margin-top: 15%;
+}
+
+
+#star-six:after {
+	width: 0;
+	height: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-top: 100px solid red;
+	position: absolute;
+	content: "";
+	top: 30px;
+	left: -50px;
+}
+
+.rectangle {
+	width: 200px;
+	height: 40px;
+	background: #DDA0DD;
+	margin-left: 280%;
+	position: absolute;
+}
