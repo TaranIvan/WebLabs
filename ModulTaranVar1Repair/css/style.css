@@ -1,0 +1,42 @@
+.mainoval {
+	width: 200px;
+	height: 100px;
+	border-radius: 100px / 50px;
+  background: #90EE90;
+  top: 0;
+  left: 0;
+  right:0;
+  bottom:0;
+  margin:auto;
+  position: absolute;
+    
+}
+
+.minoval {
+	width: 155px;
+	height: 70px;
+	border-radius: 100px / 50px;
+  background: #FFFF00;
+  top: 0;
+  left: 0;
+  right:0;
+  bottom:0;
+  margin:auto;
+  position: absolute;
+	
+}
+
+.square {
+	width: 100px;
+	height: 100px;
+	background: #006400;
+	margin-left: 200%;
+	margin-top: -60%;
+	position: absolute;
+  /*opacity: 0; квадрат невидим*/
+}
+
+/* .mainoval:hover + .square {  при наведении на большой овал квадрат становится видимым*/
+/* opacity:1; */
+/* } */
+
