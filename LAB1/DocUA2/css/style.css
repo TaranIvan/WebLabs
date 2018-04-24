@@ -1,0 +1,231 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+   font-family: Arial, sans-serif;
+}
+ 
+body {
+    background-color: gray;
+}
+ 
+.main {
+    width: 700px;
+    background: white;
+    margin: 20px auto;  
+    border-bottom: 20px solid blue;  
+    border-top: 40px solid blue;
+    border-right: 10px solid blue;
+    border-left: 10px solid blue;    
+} 
+
+p {
+    margin-top: 30px;
+}
+ 
+
+ul {
+    padding-left: 50px;
+    padding-top: 10px;
+}
+ 
+.Friends {
+    text-align: center;
+}
+
+.docua {
+    padding-top: 15px;
+}
+
+.foot {
+    padding-top: 30px;
+    color: white;
+    font-size: 15px;
+}
+
+.footer {
+    text-align: center;
+}
+
+.footer1{
+    text-align: center; 
+    font-size: 11px; 
+}
+
+.footer1 a{
+    color: white;
+    font-size: 11px;
+}
+.HeadImg img{
+    width: 640px;
+    padding-left: 30px;    
+}
+ 
+.text {
+    width: 540px;
+    color: #000;
+    font-size: 16px;
+    line-height: 23px;
+    background-color: white;
+    margin-top: 10px;
+}
+
+.boldtext {
+    font-weight: bold;
+
+}
+
+.boldtext1 {
+    font-weight: bold;
+    padding-left: 20px;
+
+}
+
+.boldtext2 {
+    font-weight: bold;
+    padding-left: 80px;
+
+}
+
+.Block1 {
+    width: 540px;
+    margin-top: 10px;
+}
+
+.Block2 {
+    width: 540px;
+    margin-top: 10px;   
+}
+ 
+.First {
+    width: 255px;
+    float: left;
+    margin: 10px 15px 0 0;
+    text-align: center;
+}
+
+
+.Two {
+    width: 255px;
+    float: left;
+    margin: 10px 15px 0 0;
+    text-align: center;
+}
+
+ 
+.BlockImg {
+    width: 255px;
+    height: 213px;
+}
+
+.BlockImg1 {
+    width: 255px;
+    height: 213px;
+    padding-left: 15px;
+    
+}
+ 
+.BlockImg2 {
+    width: 255px;
+    height: 213px;
+
+}
+
+.BlockImg3 {
+    width: 255px;
+    height: 213px;
+    padding-left: 15px;
+    padding-top: 10px;
+}
+
+.ButtonMain {
+    width: 520px;
+    height:40px;
+    background: red;
+    font-weight: bold;
+    border-radius: 6px;
+    border:  none;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    margin: 40px 0 20px 10px;
+}
+
+.Button3 {
+    width: 255px;
+    height:40px;
+    background: red;
+    font-weight: bold;
+    border-radius: 6px;
+    border:  none;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    margin-top: 25px;
+}
+
+.Button4 {
+    width: 255px;
+    height:40px;
+    background: red;
+    font-weight: bold;
+    border-radius: 6px;
+    border:  none;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    margin-top: 25px;
+    margin-left: 15px;
+}
+
+.Button1 {
+    width: 255px;
+    height:50px;
+    background: red;
+    font-weight: bold;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    margin-top: 25px;
+    float: right;
+}
+
+.Button2 {
+    width: 255px;
+    height:50px;
+    background: red;
+    font-weight: bold;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    margin-top: 25px;
+    float: left
+}
+
+.fontBottom {
+    font-style: italic;
+}
+
+.ButtomBlock {
+    margin-bottom: 20px;
+    width: 640px;
+    background-color: blue;
+    min-height: 80px;
+    margin-top: 10px;
+ }
+
+.FaceVKImg {
+    padding-top: 30px;
+    width: 80px;
+}
+
+.FaceVKImg1{
+    width: 35px;
+    float: left;
+}
+
+.FaceVKImg2{
+    width: 35px;
+    float: right;
+}
